@@ -16,10 +16,10 @@ At last we implement a simple Image2StyleGAN++ model, which contains noise optim
 
 Pretrained StyleGAN model can be downloaded [here](https://github.com/lernapparat/lernapparat/releases/download/v2019-02-01/karras2019stylegan-ffhq-1024x1024.for_g_all.pt).
 
-* Image2StyleGAN runing command:
+* Image2StyleGAN running command:
 `python execute.py`
 
-* Image2StyleGAN++ runing command:
+* Image2StyleGAN++ running command:
 `python execute_v2.py`
 
 
