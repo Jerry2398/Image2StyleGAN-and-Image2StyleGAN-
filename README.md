@@ -14,12 +14,13 @@ Then we reproduce some experiments of Image2StyleGan:
 
 At last we implement a simple Image2StyleGAN++ model, which contains noise optimization and Three blocks: Masked W+ Optimization, Masked Noise Optimization, Masked Style Transfer.
 
+Pretrained StyleGAN model can be downloaded [here](https://github.com/lernapparat/lernapparat/releases/download/v2019-02-01/karras2019stylegan-ffhq-1024x1024.for_g_all.pt).
 
+* Image2StyleGAN runing command:
+`python execute.py`
 
-Exploratory experiments and implementation of Image2styleGAN can be found in fold named **Simple Image2StyleGAN**
-
-Implementation of Image2StyleGAN ++ can be found in fold named **Simple Image2StyleGAN++**
-
+* Image2StyleGAN++ runing command:
+`python execute_v2.py`
 
 
 ## Exploratory experiments
